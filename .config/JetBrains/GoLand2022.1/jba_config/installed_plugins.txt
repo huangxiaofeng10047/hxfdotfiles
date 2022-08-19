@@ -1,0 +1,4 @@
+some.awesome
+com.tabnine.TabNine
+com.chrisrm.idea.MaterialThemeUI
+com.mallowigi

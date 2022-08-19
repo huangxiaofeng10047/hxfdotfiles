@@ -1,0 +1,6 @@
+[2022-08-18 15:27:07.326] [renderer1] [error] net::ERR_CONNECTION_RESET: Error: net::ERR_CONNECTION_RESET
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7169)
+    at SimpleURLLoaderWrapper.emit (node:events:390:28)
+[2022-08-18 15:28:33.971] [renderer1] [error] net::ERR_CONNECTION_RESET: Error: net::ERR_CONNECTION_RESET
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7169)
+    at SimpleURLLoaderWrapper.emit (node:events:390:28)

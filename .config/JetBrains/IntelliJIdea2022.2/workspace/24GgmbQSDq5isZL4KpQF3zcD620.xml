@@ -1,0 +1,576 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="java-ddd-skeleton" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="32" column="47" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/main/tv/codely/apps/Starter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mooc/main/tv/codely/mooc/courses_counter/domain/CoursesCounterNotInitialized.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shared/main/tv/codely/shared/infrastructure/spring/ApiExceptionMiddleware.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backoffice/main/tv/codely/backoffice/shared/infrastructure/persistence/BackofficeRabbitMqEventBusConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backoffice/main/tv/codely/backoffice/shared/infrastructure/persistence/BackofficeMySqlEventBusConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backoffice/main/tv/codely/backoffice/shared/infrastructure/persistence/BackofficeHibernateConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-110">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backoffice/main/tv/codely/backoffice/shared/infrastructure/persistence/BackofficeElasticsearchConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="25" column="89" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/main/resources/backoffice_frontend/templates/pages/courses/partials/list_courses.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="86" column="56" lean-forward="true" selection-start-line="86" selection-start-column="56" selection-end-line="86" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/main/tv/codely/apps/mooc/backend/controller/courses/CourseGetController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="29" column="121" selection-start-line="29" selection-start-column="95" selection-end-line="29" selection-end-column="121" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1660724664649" />
+    </fileType>
+    <fileType name="Dockerfile">
+      <summary usageCount="1" lastUsed="1660715627039" />
+    </fileType>
+    <fileType name="FTL">
+      <summary usageCount="1" lastUsed="1660728336980" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="11" lastUsed="1660725193922" />
+    </fileType>
+    <fileType name="Makefile">
+      <summary usageCount="1" lastUsed="1660723214200" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="2" lastUsed="1660723213731" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="2" lastUsed="1660723214320" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="2" lastUsed="1660723214170" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="1" lastUsed="1660719287432" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/mooc/main/tv/codely/mooc/courses_counter/application/find/CoursesCounterFinder.java" />
+      <option value="$PROJECT_DIR$/apps/main/resources/backoffice_frontend/templates/pages/courses/partials/list_courses.ftl" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="1" lastUsage="1660715627039" />
+    </language>
+    <language id="FTL">
+      <summary usageCount="1" lastUsage="1660728336980" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="11" lastUsage="1660725193922" />
+    </language>
+    <language id="Makefile">
+      <summary usageCount="1" lastUsage="1660723214200" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1660723213733" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="2" lastUsage="1660723214320" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1660719287432" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="2" lastUsage="1660723214170" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-ddd-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ddd-skeleton" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ddd-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ddd-skeleton" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ddd-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ddd-skeleton" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ddd-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ddd-skeleton" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ddd-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ddd-skeleton" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="backoffice_frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ddd-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ddd-skeleton" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="backoffice_frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ddd-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ddd-skeleton" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="backoffice_frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ddd-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ddd-skeleton" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="backoffice_frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ddd-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ddd-skeleton" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="backoffice_frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ddd-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ddd-skeleton" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="backoffice_frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ddd-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ddd-skeleton" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="backoffice_frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ddd-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ddd-skeleton" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Starter" executorId="Debug" />
+      <element setting="Application.Starter" executorId="Run" />
+      <element setting="Makefile Target.start-backoffice_frontend" executorId="Run" />
+      <element setting="Makefile Target.start-mooc_backend" executorId="Run" />
+      <element setting="Makefile Target.start-backoffice_backend" executorId="Run" />
+      <element setting="Makefile Target.run-tests" executorId="Run" />
+      <element setting="Makefile Target.up" executorId="Run" />
+      <element setting="Docker.docker-compose.yml.mysql: Compose Deployment" executorId="Run" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="..-ddd-skeleton" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="java-ddd-skeleton-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7840000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Commit" weight="0.32994792" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" weight="0.2502604" />
+      <window_info id="Web" order="4" show_stripe_button="false" side_tool="true" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32953417" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3999009" />
+      <window_info anchor="bottom" id="Endpoints" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="bottom" id="Dependencies" order="7" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="11" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.5921705" />
+      <window_info anchor="bottom" id="Services" order="14" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="make" order="1" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32994792" />
+      <window_info anchor="right" id="Notifications" order="3" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Debug</value>
+      <value>Run</value>
+      <value>Gradle</value>
+      <value>Services</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2480" y="223" key="#Docker" timestamp="1660719245203">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2480" y="223" key="#Docker/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660719245203" />
+    <state x="2596" y="451" key="#Path_mapping" timestamp="1660718256237">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2596" y="451" key="#Path_mapping/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660718256237" />
+    <state x="2346" y="190" key="#SSH_Configurations" timestamp="1660718282994">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2346" y="190" key="#SSH_Configurations/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660718282994" />
+    <state x="2360" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1660724195367">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2360" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660724195367" />
+    <state x="2643" y="163" key="#xdebugger.evaluate" timestamp="1660724352103">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2643" y="163" key="#xdebugger.evaluate/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660724352103" />
+    <state x="2550" y="285" key="FileChooserDialogImpl" timestamp="1660718250394">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2550" y="285" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660718250394" />
+    <state width="1874" height="375" key="GridCell.Tab.0.bottom" timestamp="1660725060022">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1660720256614" />
+    <state width="1874" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660725060022" />
+    <state width="1874" height="375" key="GridCell.Tab.0.center" timestamp="1660725060022">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="304" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1660720256613" />
+    <state width="1874" height="375" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660725060022" />
+    <state width="1874" height="375" key="GridCell.Tab.0.left" timestamp="1660725060022">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="304" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1660720256613" />
+    <state width="1874" height="375" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660725060022" />
+    <state width="1874" height="375" key="GridCell.Tab.0.right" timestamp="1660725060022">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="304" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1660720256614" />
+    <state width="1874" height="375" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660725060022" />
+    <state width="1874" height="375" key="GridCell.Tab.1.bottom" timestamp="1660725060022">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660725060022" />
+    <state width="1874" height="375" key="GridCell.Tab.1.center" timestamp="1660725060022">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.1.center/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660725060022" />
+    <state width="1874" height="375" key="GridCell.Tab.1.left" timestamp="1660725060022">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.1.left/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660725060022" />
+    <state width="1874" height="375" key="GridCell.Tab.1.right" timestamp="1660725060022">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.1.right/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660725060022" />
+    <state x="2368" y="120" key="SettingsEditor" timestamp="1660715052757">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2368" y="120" key="SettingsEditor/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660715052757" />
+    <state x="2480" y="277" key="Vcs.Push.Dialog.v2" timestamp="1660724690592">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2480" y="277" key="Vcs.Push.Dialog.v2/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660724690592" />
+    <state width="960" height="504" key="XDebugger.FullValuePopup" timestamp="1660724312040">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="960" height="504" key="XDebugger.FullValuePopup/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660724312040" />
+    <state x="2543" y="241" width="672" height="704" key="search.everywhere.popup" timestamp="1660723483110">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2543" y="241" width="672" height="704" key="search.everywhere.popup/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1660723483110" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>mapping.getHandler(httpRequest)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/main/resources/.env">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mooc/main/tv/codely/mooc/courses_counter/application/find/CoursesCounterFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mooc/main/tv/codely/mooc/courses_counter/domain/CoursesCounterNotInitialized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/main/tv/codely/apps/mooc/backend/controller/courses/CourseGetController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="121" selection-start-line="29" selection-start-column="95" selection-end-line="29" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/main/tv/codely/apps/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shared/main/tv/codely/shared/infrastructure/spring/ApiExceptionMiddleware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backoffice/main/tv/codely/backoffice/shared/infrastructure/persistence/BackofficeRabbitMqEventBusConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backoffice/main/tv/codely/backoffice/shared/infrastructure/persistence/BackofficeMySqlEventBusConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backoffice/main/tv/codely/backoffice/shared/infrastructure/persistence/BackofficeHibernateConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backoffice/main/tv/codely/backoffice/shared/infrastructure/persistence/BackofficeElasticsearchConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="25" column="89" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/main/resources/backoffice_frontend/templates/pages/courses/partials/list_courses.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="86" column="56" lean-forward="true" selection-start-line="86" selection-start-column="56" selection-end-line="86" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

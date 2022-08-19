@@ -1,0 +1,19 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/workspace/bigdata/flink" value="true" />
+        <entry key="$USER_HOME$/workspace/java/PdfMerger" value="true" />
+        <entry key="$USER_HOME$/workspace/java/spring-cloud-tencent" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/workspace/bigdata" />
+        <option value="$USER_HOME$/workspace/java" />
+      </list>
+    </option>
+  </component>
+</application>

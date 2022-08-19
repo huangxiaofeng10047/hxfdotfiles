@@ -1,0 +1,57 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2Baw8qXXi1JAU3D5DUQQb2bVRlW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "EXPORTABILITY_SORTER.file.structure.state": "true",
+    "LayoutCode.codeCleanup": "true",
+    "LayoutCode.optimizeImports": "true",
+    "RunOnceActivity.go.convert.old.color.schemes": "true",
+    "RunOnceActivity.go.enabled.exportability.sorter": "true",
+    "RunOnceActivity.go.init.cfg.2": "true",
+    "RunOnceActivity.go.init.cfg.line.markers": "true",
+    "RunOnceActivity.go.libraries.notification.had.been.shown": "true",
+    "RunOnceActivity.go.optimizeImportsByDefault": "true",
+    "RunOnceActivity.go.suggest.all.rc.was.enabled.once": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "RunOnceActivity.terminal.shell.command.handling.was.disabled.once": "true",
+    "appcds.runOnSecondStart": "GO-221.5921.26-99992876f285261811e46e4fee77663b1acf1a874703953f3e9f4f9b591bc4f8",
+    "bundled.plugins.list.saved.version": "GO-221.5921.26",
+    "evlsprt3.221": "25",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "1",
+    "go.first.run.time": "1657169926788",
+    "gotit.previous.run": "GO-221.5921.26",
+    "ide.memory.adjusted": "true",
+    "ide.updates.old.dirs.scan.scheduled": "1657774727440",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/xfhuang/workspace/go/src/cloud-disk",
+    "org.jetbrains.plugins.go.LAST_UPDATE": "1657169958480",
+    "org.jetbrains.plugins.go.LAST_VERSION": "221.5921.26",
+    "registry.to.advanced.settings.migration.build": "GO-221.5921.26",
+    "ts.lib.d.ts.version": "4.6.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/xfhuang/workspace/go/src/cloud-disk"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

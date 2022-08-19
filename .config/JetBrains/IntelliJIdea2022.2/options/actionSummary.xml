@@ -1,0 +1,205 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="6" l="1656386322117" />
+    </e>
+    <e n="$Undo">
+      <i c="9" l="1660728429523" />
+    </e>
+    <e n="Back">
+      <i c="2" l="1660714898019" />
+    </e>
+    <e n="CheckinProject">
+      <i c="1" l="1660724656538" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="4" l="1660721948003" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1660724201212" />
+    </e>
+    <e n="Docker.ComposeEditorGroup.SyncWithServiceView">
+      <i c="1" l="1660715631240" />
+    </e>
+    <e n="Docker.RemoteServers.ConnectServer">
+      <i c="6" l="1660718624797" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="259" l="1660728632746" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="6" l="1660722105885" />
+    </e>
+    <e n="EditorCopy">
+      <i c="9" l="1660728671753" />
+    </e>
+    <e n="EditorDown">
+      <i c="45" l="1660723331852" />
+    </e>
+    <e n="EditorEnter">
+      <i c="3" l="1660723304519" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1660723331070" />
+    </e>
+    <e n="EditorLeft">
+      <i c="6" l="1657609939391" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1660723304040" />
+    </e>
+    <e n="EditorPageUp">
+      <i c="1" l="1660723346128" />
+    </e>
+    <e n="EditorPaste">
+      <i c="21" l="1660728672918" />
+    </e>
+    <e n="EditorRight">
+      <i c="6" l="1660728426408" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1657609347573" />
+    </e>
+    <e n="EditorUp">
+      <i c="35" l="1660723331511" />
+    </e>
+    <e n="EvaluateExpression">
+      <i c="2" l="1660724349163" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="3" l="1657609941857" />
+    </e>
+    <e n="FileChooser.Refresh">
+      <i c="1" l="1660714424983" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1656385016122" />
+    </e>
+    <e n="FindInPath">
+      <i c="3" l="1656385020853" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="2" l="1660724688586" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="5" l="1657609832592" />
+    </e>
+    <e n="ImportProject">
+      <i c="2" l="1660715004602" />
+    </e>
+    <e n="ImportSettings">
+      <i c="2" l="1660714399019" />
+    </e>
+    <e n="Maven.ExecuteGoal">
+      <i c="11" l="1656464303883" />
+    </e>
+    <e n="Maven.Reimport">
+      <i c="9" l="1660706907091" />
+    </e>
+    <e n="Maven.ReimportProject">
+      <i c="1" l="1656392070705" />
+    </e>
+    <e n="Maven.ToggleProfile">
+      <i c="2" l="1656575559485" />
+    </e>
+    <e n="Maven.UpdateFolders">
+      <i c="2" l="1656307663555" />
+    </e>
+    <e n="RemoteServers.EditServerConfig">
+      <i c="4" l="1660718637469" />
+    </e>
+    <e n="Rerun">
+      <i c="9" l="1660724234939" />
+    </e>
+    <e n="Resume">
+      <i c="6" l="1660724590254" />
+    </e>
+    <e n="SaveAll">
+      <i c="64" l="1660728674859" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="7" l="1660723480071" />
+    </e>
+    <e n="SelectInProjectView">
+      <i c="2" l="1656385497950" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="18" l="1660715039672" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="9" l="1660715040664" />
+    </e>
+    <e n="ShowSettings">
+      <i c="14" l="1660714907863" />
+    </e>
+    <e n="StepOver">
+      <i c="6" l="1660724325710" />
+    </e>
+    <e n="Stop">
+      <i c="9" l="1660720463174" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1660724209091" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1656300440581" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1657606450014" />
+    </e>
+    <e n="XDebugger.MuteBreakpoints">
+      <i c="1" l="1660724653106" />
+    </e>
+    <e n="com.intellij.docker.ConfigureNewRunConfig">
+      <i c="1" l="1660715588713" />
+    </e>
+    <e n="com.intellij.docker.DockerConnectionConfigurable$myPanel$2$refreshAction$1">
+      <i c="6" l="1660718300060" />
+    </e>
+    <e n="com.intellij.docker.compose.DockerComposeServiceActions$ForSingleService$ConfigureServiceRunConfig">
+      <i c="1" l="1660718143678" />
+    </e>
+    <e n="com.intellij.execution.dashboard.ConfigurationTypeRunDashboardAdvertiserBase$1">
+      <i c="1" l="1656573890606" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="6" l="1660724183915" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1656574112265" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
+      <i c="2" l="1660713767293" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="2" l="1660713766348" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="4" l="1656572626958" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="17" l="1660724108813" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="10" l="1656464277435" />
+    </e>
+    <e n="com.intellij.space.vcs.actions.SpaceMainToolBarAction">
+      <i c="1" l="1656306703055" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="14" l="1660728617676" />
+    </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="3" l="1660718264474" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1660718230244" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1660724188972" />
+    </e>
+    <e n="org.jetbrains.idea.maven.buildtool.MavenSyncConsole$startImport$restartAction$1">
+      <i c="2" l="1656386464236" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,118 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="6" l="1656386322117" />
+    </e>
+    <e n="$Undo">
+      <i c="7" l="1657609934998" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="3" l="1656464627168" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="95" l="1657609939676" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1657609588726" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1" l="1656385615872" />
+    </e>
+    <e n="EditorLeft">
+      <i c="6" l="1657609939391" />
+    </e>
+    <e n="EditorPaste">
+      <i c="12" l="1657609709547" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1657609347573" />
+    </e>
+    <e n="EditorUp">
+      <i c="1" l="1656407613881" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="3" l="1657609941857" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1656385016122" />
+    </e>
+    <e n="FindInPath">
+      <i c="3" l="1656385020853" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="5" l="1657609832592" />
+    </e>
+    <e n="ImportProject">
+      <i c="1" l="1656404771999" />
+    </e>
+    <e n="Maven.ExecuteGoal">
+      <i c="11" l="1656464303883" />
+    </e>
+    <e n="Maven.Reimport">
+      <i c="8" l="1656464260231" />
+    </e>
+    <e n="Maven.ReimportProject">
+      <i c="1" l="1656392070705" />
+    </e>
+    <e n="Maven.ToggleProfile">
+      <i c="2" l="1656575559485" />
+    </e>
+    <e n="Maven.UpdateFolders">
+      <i c="2" l="1656307663555" />
+    </e>
+    <e n="Rerun">
+      <i c="3" l="1656464643479" />
+    </e>
+    <e n="SaveAll">
+      <i c="29" l="1657610041410" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="6" l="1656385889910" />
+    </e>
+    <e n="SelectInProjectView">
+      <i c="2" l="1656385497950" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="16" l="1657609349765" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="7" l="1657609352190" />
+    </e>
+    <e n="ShowSettings">
+      <i c="6" l="1656572631649" />
+    </e>
+    <e n="Stop">
+      <i c="6" l="1656464640650" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1656300440581" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1657606450014" />
+    </e>
+    <e n="com.intellij.execution.dashboard.ConfigurationTypeRunDashboardAdvertiserBase$1">
+      <i c="1" l="1656573890606" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1656574112265" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="4" l="1656572626958" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="12" l="1657609767972" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="10" l="1656464277435" />
+    </e>
+    <e n="com.intellij.space.vcs.actions.SpaceMainToolBarAction">
+      <i c="1" l="1656306703055" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="7" l="1656575549355" />
+    </e>
+    <e n="org.jetbrains.idea.maven.buildtool.MavenSyncConsole$startImport$restartAction$1">
+      <i c="2" l="1656386464236" />
+    </e>
+  </component>
+</application>

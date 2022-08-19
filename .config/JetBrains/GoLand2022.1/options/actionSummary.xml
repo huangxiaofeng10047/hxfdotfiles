@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="65" l="1657170577114" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="2" l="1657170585498" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1" l="1657170539606" />
+    </e>
+    <e n="SaveAll">
+      <i c="5" l="1657170588529" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1657169910538" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1657169940532" />
+    </e>
+  </component>
+</application>

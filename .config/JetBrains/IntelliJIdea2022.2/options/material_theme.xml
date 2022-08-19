@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="416a9b" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="637db738:181c6c19c4b:-8000" />
+    <option name="version" value="7.8.0" />
+  </component>
+</application>

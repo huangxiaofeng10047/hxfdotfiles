@@ -1,0 +1,9 @@
+[filesystem "Azul Systems, Inc.|11.0.14|/dev/sdc"]
+	timestampResolution = 7000 nanoseconds
+	minRacyThreshold = 19102 microseconds
+[filesystem "Azul Systems, Inc.|1.8.0_322|/dev/sdc"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 19263 microseconds
+[filesystem "BellSoft|11.0.15.1|/dev/sdc"]
+	timestampResolution = 4000 nanoseconds
+	minRacyThreshold = 11104 microseconds

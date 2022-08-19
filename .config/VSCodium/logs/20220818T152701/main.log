@@ -1,0 +1,10 @@
+[2022-08-18 15:27:02.019] [main] [info] update#setState idle
+[2022-08-18 15:27:04.742] [main] [info] Starting extension host with pid 1167 (fork() took 6 ms).
+[2022-08-18 15:27:32.022] [main] [info] update#setState checking for updates
+[2022-08-18 15:27:32.399] [main] [error] Error: net::ERR_CONNECTION_RESET
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7169)
+    at SimpleURLLoaderWrapper.emit (node:events:390:28)
+[2022-08-18 15:27:32.399] [main] [info] update#setState idle
+[2022-08-18 15:28:31.973] [main] [info] Extension host with pid 1167 exited with code: 0, signal: null.
+[2022-08-18 15:28:33.222] [main] [info] Starting extension host with pid 1336 (fork() took 7 ms).
+[2022-08-18 15:28:59.813] [main] [info] Extension host with pid 1336 exited with code: 0, signal: null.

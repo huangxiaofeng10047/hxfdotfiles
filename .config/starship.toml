@@ -1,0 +1,109 @@
+add_newline = false
+command_timeout = 1000
+[character]
+success_symbol = "🌈 "
+error_symbol = "[❌](bold red) "
+
+[time]
+disabled = true
+
+[cmd_duration]
+disabled = true
+
+[directory]
+truncation_length = 8
+
+[hostname]
+disabled = true
+
+[nodejs]
+symbol = "🤢"
+[container]
+disabled=true
+[battery]
+full_symbol = "🔋 "
+charging_symbol = "⚡️ "
+discharging_symbol = "💀 "
+disabled = false
+
+[git_status]
+conflicted = "🚩"
+ahead = "💨"
+behind = "😰"
+diverged = "😵"
+untracked = "🤷"
+stashed = "📦"
+modified = "📝"
+staged = '[++\($count\)](green)'
+renamed = "👅"
+deleted = "💥"
+
+[shell]
+fish_indicator = "🦈"
+bash_indicator = "🌞"
+disabled = false
+[aws]
+symbol = "  "
+
+[buf]
+symbol = " "
+
+[c]
+symbol = " "
+
+[conda]
+symbol = " "
+
+[dart]
+symbol = " "
+
+
+[docker_context]
+symbol = " "
+
+[elixir]
+symbol = " "
+
+[elm]
+symbol = " "
+
+[git_branch]
+symbol = " "
+
+[golang]
+symbol = " "
+format = '\[[$symbol($version)]($style)\]'
+
+[haskell]
+symbol = " "
+
+[hg_branch]
+symbol = " "
+[java]
+symbol = " "
+format = '\[[$symbol($version)]($style)\]'
+
+[julia]
+symbol = " "
+
+[memory_usage]
+symbol = " "
+
+[nim]
+symbol = " "
+
+[nix_shell]
+symbol = " "
+
+
+[package]
+symbol = " "
+
+[python]
+symbol = " "
+
+[spack]
+symbol = "🅢 "
+
+[rust]
+symbol = " "

@@ -1,0 +1,11 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://0.0.0.0:2375" />
+        <option name="connected" value="true" />
+        <option name="customConfiguratorId" value="DockerTcpConnectionConfigurator" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>

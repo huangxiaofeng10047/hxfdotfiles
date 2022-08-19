@@ -1,0 +1,105 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="24GgmbQSDq5isZL4KpQF3zcD620">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2AKoST87jY2YZBPNEhFwd1GrbEo">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BCKntsEPKsupaHim80wR51d3jp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BpcUmk9u7UZb2nlETGXKjeUO8Y">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "ExpandBeforeRunStepsPanel": "false",
+    "InstalledPluginsSearchHistory": "Ny\nn\nna\nnavi\nnav",
+    "MarketplacePluginsSearchHistory": "Ny\nN\nna\nnav\nmate",
+    "MavenHelper.lastRadioButton": "list",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "http\nmaven",
+    "appcds.runOnSecondStart": "IU-222.3345.118-621d43c129352fe90f084c07f5fc9c1d6319bd1b7438f77e88aa1159f97dbafd",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.同步.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IU-222.3345.118",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "源",
+    "create.project.preferred.importer": "Gradle",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "defaultpackageserviceconfig.fulltext": "https://package-search.services.jetbrains.com/api/search/idea/fulltext",
+    "defaultpackageserviceconfig.suggest": "https://package-search.services.jetbrains.com/api/search/idea/suggest",
+    "defaultpackageserviceconfig.updated.ts": "1660706861539",
+    "eclipse.projects.detected": "",
+    "evlsprt3.221": "26",
+    "evlsprt3.222": "23",
+    "file.gist.reindex.count": "1027",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "IU-222.3345.118",
+    "ide.memory.adjusted": "true",
+    "ide.updates.old.dirs.scan.scheduled": "1661310913277",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "222-1.7.10-release-334-IJ3345.118",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last.imported.location": "/home/xfhuang/workspace/java/java-ddd-skeleton",
+    "last_opened_file_path": "/var/run/docker",
+    "previousColorScheme": "_@user_Darcula",
+    "project.wizard.group": "newWizard.com.intellij.ide.wizard.NewProjectBuilder",
+    "registry.to.advanced.settings.migration.build": "IU-222.3345.118",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.7.4",
+    "vcs.log.details.splitter.proportion": "0.3256579"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/var/run/docker",
+      "/home/xfhuang/workspace/java/java-ddd-skeleton",
+      "/mnt/d/Users/settings.zip",
+      "/home/xfhuang/workspace/java/PdfMerger",
+      "/home/xfhuang/workspace/java/spring-cloud-tencent",
+      "/home/xfhuang/workspace/bigdata/flink"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="java-ddd-skeleton-history" project-path="$USER_HOME$/workspace/java/java-ddd-skeleton" last-access-time="1660725060140" />
+    </command-history-files>
+  </component>
+</application>
